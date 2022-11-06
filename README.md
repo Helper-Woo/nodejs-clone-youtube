@@ -1,2 +1,2 @@
 # nodejs-clone-youtube
-Clone Youtube with react↔nodejs
+README.md 수정
